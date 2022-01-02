@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<team>
+    <members>
+        <name>Ayushi Mishra</name>
+        <designation>UI UX</designation>
+        <description>Takes care of wireframing the web application. Creates all the designs of the whole web application.
+        Works with technologies like Figma, HTML, CSS, Tailwind.
+        </description>
+    </members>
+    <members>
+        <name>Amar Narute</name>
+        <designation>Back End</designation>
+        <description>Works on the backend. Takes care of routing and authenticating the pages and other parts of the web application.
+        Works with technologies like Node.js, React.js, Passport Authentication.
+        </description>
+    </members>
+    <members>
+        <name>Akash Solienkar</name>
+        <designation>Data Base</designation>
+        <description>Constructs the database architecture. Works with MongoDB and MySQL.
+        </description>
+    </members>
+    <members>
+        <name>Durran Furtado</name>
+        <designation>Full Stack</designation>
+        <description>Technologies worked with are React.js, Node.js and AWS.
+        </description>
+    </members>
+</team>
